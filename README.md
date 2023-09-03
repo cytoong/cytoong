@@ -60,11 +60,11 @@
 <br/>  
 
 ## 项目概览 
-php在线商城：https://github.com/cytoong/online-shopping
+php在线商城：https://github.com/cytoong/online-shopping<br>
 C#超市进销存：
 安卓健身系统：
 宿舍管理系统：
-河北科技政策查询系统：
+河北科技政策查询系统：https://github.com/cytoong/hebeipolice
 
 ## 学习情况：
 本科四年就读于石家庄铁道大学软件工程专业，掌握各种计算机基础知识，并且掌握前端与后端开发技术，直在不断学习和探索，力求提升自己的技术水平，主要学习掌握web开发以及安卓软件开发。
