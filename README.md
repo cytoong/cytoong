@@ -60,7 +60,7 @@
 <br/>  
 
 ## 项目概览 
-php在线商城：
+php在线商城：https://github.com/cytoong/online-shopping
 C#超市进销存：
 安卓健身系统：
 宿舍管理系统：
