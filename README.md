@@ -61,9 +61,9 @@
 
 ## 项目概览 
 php在线商城：https://github.com/cytoong/online-shopping<br>
-C#超市进销存：
-安卓健身系统：
-宿舍管理系统：
+C#超市进销存：https://github.com/cytoong/chaoshi <br>
+安卓健身系统：https://github.com/cytoong/jianshen <br>
+宿舍管理系统：https://github.com/cytoong/dorms <br>
 河北科技政策查询系统：https://github.com/cytoong/hebeipolice
 
 ## 学习情况：
